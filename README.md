@@ -1,2 +1,2 @@
 # PlaceNames
-Web scraping Latvian place names
+Web scraping place names of Latvia using Python and Selenium 
